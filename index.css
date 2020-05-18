@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+.header{
+    background: url("../pizza/images/pexels-photo-4004424.jpeg");
+    height: 50vh;
+    background-color: peru;
+    
+
+}
+
+h2{
+    font-family: 'Racing Sans One', cursive;
+}
