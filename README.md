@@ -1,4 +1,4 @@
-# LUPIUM PIZZA SHOP
+# lupium pizza shop
 ####  15/may/2020
 #### By **Wyclif Ouma**
 ## Description
