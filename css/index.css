@@ -29,17 +29,9 @@ ul{
   }
   #order{
       background-color: seashell;
-      background-image: url(../images/images.png);
-      background-repeat: no-repeat;
-      background-size: cover;
+     
   }
   #contact{
       background-color: seashell;
   }
-  /* #order{ 
-    background-image: url(../images/images.png) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  } */
+ 
